@@ -1,1 +1,3 @@
-# pomodoro-app
+POMODORO APP
+REACT
+TYPESCRIPT
